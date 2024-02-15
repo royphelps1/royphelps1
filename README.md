@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @royphelps1
 - 👀 I’m interested in data science and analytics, coding, and mathematics
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on R
+- 🌱 I’m currently learning IBM Cloud Pak
+- 💞️ I’m looking to collaborate on R, Python, Hadoop, SPARK, PySpark, Java, HTML
 - 📫 How to reach me royphelps1@gmail.com
 
 <!---
