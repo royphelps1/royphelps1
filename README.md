@@ -7,7 +7,6 @@
 
 Skills
 
-CC++JavaJavaScriptPythonTypeScriptHTML5ReactVueCSS3TailwindCSSBootstrapMaterial UIViteNodeJSExpressOracleMongoDBMySQLHerokuFlaskRenderAmazon Web ServicesArduinoLinuxPyTorchFigma
 
 <!---
 royphelps1/royphelps1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
