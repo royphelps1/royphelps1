@@ -4,12 +4,10 @@
 - 💞️ I’m looking to collaborate on R, Python, Hadoop, SPARK, PySpark, Java, HTML
 - 📫 How to reach me royphelps1@gmail.com
 
-Python 🐍
-R 📊
-MySQL 🗃️
-Tableau 📊
-SAS Enterprise Miner 📈
-Java ☕
+
+Skills
+
+CC++JavaJavaScriptPythonTypeScriptHTML5ReactVueCSS3TailwindCSSBootstrapMaterial UIViteNodeJSExpressOracleMongoDBMySQLHerokuFlaskRenderAmazon Web ServicesArduinoLinuxPyTorchFigma
 
 <!---
 royphelps1/royphelps1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
