@@ -35,7 +35,7 @@ Highly skilled and accomplished professional in the field of data science and ma
 
 
 
-## Other Common Github Profile Sections
+
 👩‍💻 I'm currently working on Spark, Hadoop, PySpark
 
 🧠 I'm currently learning big data IBM Cloud
