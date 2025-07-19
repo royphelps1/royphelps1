@@ -3,8 +3,7 @@
 
 
 ## 🚀 About Me
-Highly skilled and accomplished professional in the field of data science and mathematics with a profound expertise in extracting valuable insights
-
+Skilled in Dimensional Modeling, ETL, PowerBI, SQL, R, and others.
 ## 🛠 Skills
 
 
